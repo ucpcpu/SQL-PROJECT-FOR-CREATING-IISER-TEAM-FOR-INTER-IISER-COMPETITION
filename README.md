@@ -1,8 +1,8 @@
-#This SQL Project is to create a team that will represent 
-#Indian Institute of Science Education and Research-Tirupati 
-#in INTER IISER COMPETITION.
+This SQL Project is to create a team that will represent 
+Indian Institute of Science Education and Research-Tirupati 
+in INTER IISER COMPETITION.
 
-#It has
+It has
 
 1. A DATABASE NAMED IISER TIRUPATI
 2. DATABASE CONTAINING TABLES FOR BSMS 2018, 2017, 2016, 2015
