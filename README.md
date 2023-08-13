@@ -11,3 +11,7 @@ It has
 5. THEN A TABLE FOR INSTITUTE IS CREATED TO ALLOCATE TRAVEL ALLOWANCE AND OTHER ALLOWANCE FOR TEAM MEMBERS.
 
 The data used is not taken from IISER TIRUPATI because of privacy issues and email id's found in table are not correct then have been altered.
+
+
+NOTE: I HAVE ADDED THE DOCX FILE AS WELL.
+FEEL FREE TO COPY WASTE OR MODIFY FOR WHATEVER REASON YOU WISH.
